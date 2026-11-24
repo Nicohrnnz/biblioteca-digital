@@ -1,0 +1,20 @@
+{
+    "name": "nicohrnnz/biblioteca",
+    "description": "Sistema de Gestió de Biblioteca Digital - M0613-B2 (PHP POO)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Herran",
+            "email": "nicolasherran00@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
