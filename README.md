@@ -74,5 +74,4 @@ Després, obrir el navegador a: http://localhost:8000
 
 ## Vídeo de demostració
 
-Enllaç al vídeo (YouTube / Google Drive):
-[Pendent d'afegir l'enllaç al vídeo de 2 minuts]
+
